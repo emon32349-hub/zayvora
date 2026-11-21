@@ -1,0 +1,113 @@
+
+[
+  {
+    "id": 1,
+    "name": "Ajwa Dates",
+    "cat": "Dates",
+    "weight": "500 g",
+    "price": 1450,
+    "old": 1600,
+    "emoji": "🌴",
+    "tag": "Best seller",
+    "desc": "Premium Ajwa dates with a rich, naturally sweet taste."
+  },
+  {
+    "id": 2,
+    "name": "Medjool Dates",
+    "cat": "Dates",
+    "weight": "500 g",
+    "price": 1250,
+    "old": 1400,
+    "emoji": "🟤",
+    "tag": "Premium",
+    "desc": "Large, soft and caramel-like Medjool dates."
+  },
+  {
+    "id": 3,
+    "name": "Mabroom Dates",
+    "cat": "Dates",
+    "weight": "500 g",
+    "price": 1150,
+    "old": 0,
+    "emoji": "🌰",
+    "tag": "",
+    "desc": "Chewy, slender Mabroom dates with a delicate sweetness."
+  },
+  {
+    "id": 4,
+    "name": "Safawi Dates",
+    "cat": "Dates",
+    "weight": "500 g",
+    "price": 950,
+    "old": 0,
+    "emoji": "🫘",
+    "tag": "",
+    "desc": "Dark, soft Safawi dates for everyday goodness."
+  },
+  {
+    "id": 5,
+    "name": "Natural Honey",
+    "cat": "Honey",
+    "weight": "500 g",
+    "price": 950,
+    "old": 0,
+    "emoji": "🍯",
+    "tag": "Natural",
+    "desc": "A pantry favourite with a warm, floral flavour."
+  },
+  {
+    "id": 6,
+    "name": "Extra Virgin Olive Oil",
+    "cat": "Oil",
+    "weight": "500 ml",
+    "price": 1350,
+    "old": 0,
+    "emoji": "🫒",
+    "tag": "",
+    "desc": "A versatile olive oil for your kitchen."
+  },
+  {
+    "id": 7,
+    "name": "Organic Almonds",
+    "cat": "Nuts",
+    "weight": "250 g",
+    "price": 750,
+    "old": 0,
+    "emoji": "🥜",
+    "tag": "",
+    "desc": "Crunchy almonds for snacking and recipes."
+  },
+  {
+    "id": 8,
+    "name": "Black Seed (Kalonji)",
+    "cat": "Nuts",
+    "weight": "250 g",
+    "price": 550,
+    "old": 0,
+    "emoji": "⚫",
+    "tag": "",
+    "desc": "Aromatic black seeds for your pantry."
+  },
+  {
+    "id": 9,
+    "name": "Natural Pantry Box",
+    "cat": "Pantry",
+    "weight": "Gift selection",
+    "price": 1890,
+    "old": 0,
+    "emoji": "🎁",
+    "tag": "Gift idea",
+    "desc": "A thoughtful assortment of natural pantry essentials."
+  },
+  {
+    "id": 10,
+    "name": "Premium Dates Mix",
+    "cat": "Dates",
+    "weight": "500 g",
+    "price": 1050,
+    "old": 0,
+    "emoji": "✨",
+    "tag": "",
+    "desc": "A delicious mix selected for date lovers."
+  }
+]
